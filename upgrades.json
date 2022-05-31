@@ -1,0 +1,266 @@
+{
+    "income": 0,
+    "upgrades": [
+        {
+            "name": "Apprentice Chef",
+            "current": 0,
+            "max": 35,
+            "price": 250,
+            "boost": 10,
+            "id": "apprentice",
+            "initial": 250
+        },
+        {
+            "name": "Cook",
+            "current": 0,
+            "max": 35,
+            "price": 600,
+            "boost": 20,
+            "id": "cook",
+            "initial": 600
+        },
+        {
+            "name": "Advertiser",
+            "current": 0,
+            "max": 35,
+            "price": 700,
+            "boost": 20,
+            "id": "advertiser",
+            "initial": 700
+        },
+        {
+            "name": "Greeter",
+            "current": 0,
+            "max": 35,
+            "price": 800,
+            "boost": 25,
+            "id": "greeter",
+            "initial": 800
+        },
+        {
+            "name": "Sous Chef",
+            "current": 0,
+            "max": 35,
+            "price": 1200,
+            "boost": 40,
+            "id": "sous",
+            "initial": 1200
+        },
+        {
+            "name": "Head Chef",
+            "current": 0,
+            "max": 30,
+            "price": 2000,
+            "boost": 65,
+            "id": "head",
+            "initial": 2000
+        },
+        {
+            "name": "Executive Chef",
+            "current": 0,
+            "max": 35,
+            "price": 5000,
+            "boost": 150,
+            "id": "executive",
+            "initial": 5000
+        },
+        {
+            "name": "Newspaper Ad",
+            "current": 0,
+            "max": 35,
+            "price": 350,
+            "boost": 10,
+            "id": "newspaper",
+            "initial": 350
+        },
+        {
+            "name": "Radio Ad",
+            "current": 0,
+            "max": 30,
+            "price": 650,
+            "boost": 20,
+            "id": "radio",
+            "initial": 650
+        },
+        {
+            "name": "Email Campaign",
+            "current": 0,
+            "max": 30,
+            "price": 1000,
+            "boost": 30,
+            "id": "email",
+            "initial": 1000
+        },
+        {
+            "name": "Internet Ad",
+            "current": 0,
+            "max": 35,
+            "price": 2000,
+            "boost": 50,
+            "id": "internet",
+            "initial": 2000
+        },
+        {
+            "name": "TV Commercial",
+            "current": 0,
+            "max": 15,
+            "price": 5500,
+            "boost": 160,
+            "id": "tv",
+            "initial": 5500
+        },
+        {
+            "name": "Advertising Blimp",
+            "current": 0,
+            "max": 3,
+            "price": 250000,
+            "boost": 200,
+            "id": "blimp",
+            "initial": 250000
+        },
+        {
+            "name": "Flowers",
+            "current": 0,
+            "max": 40,
+            "price": 100,
+            "boost": 5,
+            "id": "flowers",
+            "initial": 100
+        },
+        {
+            "name": "Ornaments",
+            "current": 0,
+            "max": 35,
+            "price": 200,
+            "boost": 10,
+            "id": "ornaments",
+            "initial": 200
+        },
+        {
+            "name": "Fancy Lights",
+            "current": 0,
+            "max": 30,
+            "price": 1000,
+            "boost": 30,
+            "id": "lights",
+            "initial": 1000
+        },
+        {
+            "name": "Mural",
+            "current": 0,
+            "max": 5,
+            "price": 15000,
+            "boost": 100,
+            "id": "mural",
+            "initial": 15000
+        },
+        {
+            "name": "Taco Statue",
+            "current": 0,
+            "max": 3,
+            "price": 500000,
+            "boost": 400,
+            "id": "statue",
+            "initial": 500000
+        },
+        {
+            "name": "New Paint",
+            "current": 0,
+            "max": 35,
+            "price": 250,
+            "boost": 10,
+            "id": "paint",
+            "initial": 250
+        },
+        {
+            "name": "New Furniture",
+            "current": 0,
+            "max": 30,
+            "price": 600,
+            "boost": 20,
+            "id": "furniture",
+            "initial": 600
+        },
+        {
+            "name": "Nicer Bathrooms",
+            "current": 0,
+            "max": 30,
+            "price": 800,
+            "boost": 25,
+            "id": "bathrooms",
+            "initial": 800
+        },
+        {
+            "name": "Billboard",
+            "current": 0,
+            "max": 25,
+            "price": 1000,
+            "boost": 35,
+            "id": "billboard",
+            "initial": 1000
+        },
+        {
+            "name": "Better Appliances",
+            "current": 0,
+            "max": 30,
+            "price": 1200,
+            "boost": "make more work $",
+            "id": "appliances",
+            "initial": 1200
+        },
+        {
+            "name": "Cooler Tip Jar",
+            "current": 0,
+            "max": 35,
+            "price": 500,
+            "boost": "collect more tips",
+            "id": "tipjar",
+            "initial": 500
+        },
+        {
+            "name": "Register",
+            "current": 0,
+            "max": 20,
+            "price": 5000,
+            "boost": 50,
+            "id": "register",
+            "initial": 5000
+        },
+        {
+            "name": "Assistant",
+            "current": 0,
+            "max": 15,
+            "price": 10000,
+            "boost": 100,
+            "id": "assistant",
+            "initial": 10000
+        },
+        {
+            "name": "Truck Driver",
+            "current": 0,
+            "max": 10,
+            "price": 25000,
+            "boost": 250,
+            "id": "driver",
+            "initial": 25000
+        },
+        {
+            "name": "Kitchen",
+            "current": 0,
+            "max": 5,
+            "price": 100000,
+            "boost": 400,
+            "id": "kitchen",
+            "initial": 100000
+        },
+        {
+            "name": "Engine",
+            "current": 0,
+            "max": 3,
+            "price": 1000000,
+            "boost": 1000,
+            "id": "engine",
+            "initial": 1000000
+        }
+    ]
+}
