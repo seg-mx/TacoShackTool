@@ -1,0 +1,14 @@
+{
+  "name": "TacoShackTool",
+  "version": "1.0.0",
+  "description": "A tool for better knowledgment about your upgrades in TacoShack bot",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "author": "SEG",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
