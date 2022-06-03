@@ -1,7 +1,12 @@
-const {yellow, reset} = require('./formatting.js');
-const {addCommas, askForConfirmation} = require('./utils.js');
+const {yellow, red, reset} = require('./formatting.js');
+const {addCommas, askToContinue, askForConfirmation} = require('./utils.js');
 
 function buyUpgrade(upgrade, prompt) {
+    if (upgrade.current == upgrade.max) {
+        console.log(red+"\nThat upgrade is maxed!"+reset);
+        askToContinue(prompt);
+        return;
+    }
     upgrade.print();
     let {tier, price} = upgrade.nextValues();
 
