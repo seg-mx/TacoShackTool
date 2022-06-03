@@ -18,6 +18,7 @@ function buyUpgrade(upgrade, prompt) {
         income = upgrade.boost;
     }
     upgrade.buy();
+    upgrade.load();
 
     return income;
 }
