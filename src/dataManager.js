@@ -40,8 +40,9 @@ function setup(map, prompt) {
         console.log(green+"Insert the max tier\n"+reset);
         let max = parseInt(prompt(">> "));
 
-        up.current = current;
+        up.current = current-1;
         up.max = max;
+        up.buy();
         up.load();
     }
 }
